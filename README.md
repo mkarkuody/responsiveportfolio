@@ -1,4 +1,4 @@
-# passwordganarator
+
 Class assignment , adding bootstrap link in HTML file and commit some changes.  
 # Unit 02 CSS and Bootstrap Homework: Responsive Portfolio
 
