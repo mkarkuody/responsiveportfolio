@@ -3,7 +3,7 @@ added the Bootstrap CSS Framework to create a mobile responsive portfolio. Creat
    1-for a navbar
    2- for responsive layout and responsive images
    3- Bootstrap components and grid system.
-   4- make a sticky footer and use sub-rows and sub-columns on portfolio site
+   4- made a sticky footer and use sub-rows and sub-columns on portfolio site
 * Use Bootstrap's grid system (containers, rows, and columns).
 Added Bootstrap” class “to adjust the responsive `xs` screen, content to take up the entire screen. On `sm` and larger screens. Added margins on the left and right sides of the screen.
 Used https://validator.w3.org/to ensure that each page has valid HTML, and fixed some HTML coding errors.
