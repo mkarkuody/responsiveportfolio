@@ -7,7 +7,7 @@ added the Bootstrap CSS Framework to create a mobile responsive portfolio. Creat
 * Use Bootstrap's grid system (containers, rows, and columns).
 Added Bootstrap” class “to adjust the responsive `xs` screen, content to take up the entire screen. On `sm` and larger screens. Added margins on the left and right sides of the screen.
 Used https://validator.w3.org/to ensure that each page has valid HTML, and fixed some HTML coding errors.
-Check the files to be functional, deployed application
+Checked the files to be functional, deployed application
 
 Created GitHub repository with README file and name it responsiveportfoliomerdad
 
