@@ -1,4 +1,5 @@
-
+/* body for all files need to have " Times New Roman" font */
+/* used local Jpg  image   */
 body {
   background-image: url(./111.jpg);
   background-size: cover;
@@ -31,7 +32,7 @@ main {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: bold;
 }
-
+/* ID me means about me top written col, changed font, font size and font color */
 #me {
   font-family: Georgia, Times, "Times New Roman", serif;
 
@@ -41,7 +42,7 @@ main {
 
   background: #4aaaa5;
 }
-
+/* navbar links :hover  */
 .navbar-default .navbar-nav > li > a:hover {
   color: #4aaaa5;
 }
@@ -102,7 +103,7 @@ main {
   font-weight: bold;
   color: #4aaaa5;
 }
-
+/* floating my image to the left to have paragraph on the right  */
 #image {
   
   float: left;
