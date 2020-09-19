@@ -1,7 +1,11 @@
 
 
 Merdad Karkudi responsive portfolio link :  https://mkarkuody.github.io/responsiveportfolio/
+
+
 responsive portfolio repository : https://github.com/mkarkuody/responsiveportfolio
+
+
 active portfolio repository pages video : 
 
 
