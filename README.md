@@ -1,4 +1,9 @@
-Merdad Karkudi responsive portfolio link : https://github.com/mkarkuody/responsiveportfolio
+
+
+Merdad Karkudi responsive portfolio link :  https://mkarkuody.github.io/responsiveportfolio/
+responsive portfolio repository : https://github.com/mkarkuody/responsiveportfolio
+active portfolio repository pages video : 
+
 
 We need to have 4 files (3 HTML files and 1 CSS file) linked together for this project. For This Project:
 added the Bootstrap CSS Framework to create a mobile responsive portfolio. Created 3 HTML files: `index.html`, `portfolio.html` and `contact.html`. Linked Bootstrap CSS link in my file and also created my own CSS file to add some manual changes. I used Bootstrap for several reasons;
