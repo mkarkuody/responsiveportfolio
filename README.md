@@ -1,6 +1,6 @@
 
 
-Merdad Karkudi responsive portfolio link :  
+Merdad Karkudi responsive portfolio link :  https://mkarkuody.github.io/responsiveportfoliomerdad/
 
 
 responsive portfolio repository : https://github.com/mkarkuody/responsiveportfoliomerdad
