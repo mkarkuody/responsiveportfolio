@@ -139,4 +139,43 @@ main {
 .submit:hover{
   opacity: .9;
 }
+    
+h4{
+  width: 300px;
+  
+  }
+      .sidebar {
+        width: 355px;
+        height: fit-content;
+        max-width: 300px;
+        padding: 35px;
+        margin-bottom: 20px;
+        margin-left: 60px;
+        float: right;
+        padding-bottom: 20px;
+        margin-bottom: 15px;
+        line-height: 22px;
+        border: 1px solid #ddd;
+        background: rgba(255, 255, 255, 0.26);
+      }
+  
+      .sidebar a:hover img {
+        border: 3px solid #470a0a;
+      }
+  
+  
+      .social {
+        position: relative;
+        width: 50px;
+        height: 50px;
+        margin: 5px;
+      }
+       .port-image {
+width: 95%;
+height: 90%;
+border: 5px;
+border-color: #666;
+
+      }
+
 
