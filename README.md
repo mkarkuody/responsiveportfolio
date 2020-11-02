@@ -41,6 +41,8 @@ Made my Slack Overflow account.
 Made sure that all links works. Tried to use semantic html element as much that I can.
 Added my own personal information. (bio, name, images, linked to my email and GitHub).
 Added icones and links of gitHub, linkedIn, Slack Overflow, and several repositories.
+Users can Email me, Call me or Check my social media links. 
+my porfolio is mobile phone friendly and responsive to all kinds of screens. 
  
 • Usage: 
 1-	tps://validator.w3.org/  helps to check and fix the HTML fils
@@ -53,6 +55,8 @@ Got help Online from :
 •	https://www.w3schools.com/
 •	https://getbootstrap.com/
 •	tps://validator.w3.org/  
+•   https://fontawesome.com/
+•   https://myaccount.google.com/
 •	www.YouTube.com  ( https://www.youtube.com/user/codeandcreative )
  Thanks to John Young my class instructor and Ben Vaagen my TA. Also a special Thank to Dan Mont-Eton my TA for helping me to understand the class and homework contents.
 
