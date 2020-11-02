@@ -6,14 +6,14 @@ Merdad Karkudi responsive portfolio link :  https://mkarkuody.github.io/responsi
 responsive portfolio repository : https://github.com/mkarkuody/responsiveportfoliomerdad
 
 
-active portfolio repository pages video : chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/ng/app/app.html#/files/4e5e253f-3a05-4fc5-y610-9a0a4f5dfdc3
+active portfolio repository pages video : https://drive.google.com/file/d/1x3kh7lR4_0S0Ag77tKfxRSTXf08x8sLF/view
 
 <<<<<<< HEAD
 google doc link : https://myaccount.google.com/?utm_source=OGB&utm_medium=app
 
 
 google doc link for downloadable pdf resume : https://drive.google.com/file/d/1uGXP9Px5hNPnu1nn_RVCyeRH-iDMPkV3/view?usp=sharing
-=======
+
 downloadable  pdf Resume link : https://drive.google.com/file/d/1uGXP9Px5hNPnu1nn_RVCyeRH-iDMPkV3/view?usp=sharing
 
 >>>>>>> 032677c82016fdd5fb95705eebfc479c98d91469
