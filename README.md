@@ -7,12 +7,15 @@ responsive portfolio repository : https://github.com/mkarkuody/responsiveportfol
 
 
 active portfolio repository pages video : https://drive.google.com/file/d/1x3kh7lR4_0S0Ag77tKfxRSTXf08x8sLF/view
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 google doc link : https://myaccount.google.com/?utm_source=OGB&utm_medium=app
 
 
 google doc link for downloadable pdf resume : https://drive.google.com/file/d/1uGXP9Px5hNPnu1nn_RVCyeRH-iDMPkV3/view?usp=sharing
+=======
+>>>>>>> 545bcba2f8c88a45df745764c1e2eec1f88d3dfa
 
 downloadable  pdf Resume link : https://drive.google.com/file/d/1uGXP9Px5hNPnu1nn_RVCyeRH-iDMPkV3/view?usp=sharing
 
