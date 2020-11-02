@@ -1,6 +1,12 @@
 
 
-Merdad Karkudi responsive portfolio link :  https://mkarkuody.github.io/responsiveportfoliomerdad/
+Responsive portfolio By: Merdad Karkudi 
+
+
+< img src="Responsive%20Portfolio.jpg">
+
+
+responsive portfolio link :  https://mkarkuody.github.io/responsiveportfoliomerdad/
 
 
 responsive portfolio repository : https://github.com/mkarkuody/responsiveportfoliomerdad
