@@ -3,7 +3,7 @@
 Responsive portfolio By: Merdad Karkudi 
 
 
-< img src="Responsive%20Portfolio.jpg">
+<img src="./portfolio.jpg">
 
 
 responsive portfolio link :  https://mkarkuody.github.io/responsiveportfoliomerdad/
