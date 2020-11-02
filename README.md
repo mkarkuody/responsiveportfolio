@@ -8,6 +8,10 @@ responsive portfolio repository : https://github.com/mkarkuody/responsiveportfol
 
 active portfolio repository pages video : chrome-extension://mmeijimgabbpbgpdklnllpncmdofkcpn/ng/app/app.html#/files/4e5e253f-3a05-4fc5-y610-9a0a4f5dfdc3
 
+google doc link : https://myaccount.google.com/?utm_source=OGB&utm_medium=app
+
+
+google doc link for downloadable pdf resume : https://drive.google.com/file/d/1uGXP9Px5hNPnu1nn_RVCyeRH-iDMPkV3/view?usp=sharing
 
 We need to have 4 files (3 HTML files and 1 CSS file) linked together for this project. For This Project:
 added the Bootstrap CSS Framework to create a mobile responsive portfolio. Created 3 HTML files: `index.html`, `portfolio.html` and `contact.html`. Linked Bootstrap CSS link in my file and also created my own CSS file to add some manual changes. I used Bootstrap for several reasons;
@@ -23,8 +27,11 @@ Checked the files to be functional, deployed application
 Created GitHub repository with README file and name it responsiveportfoliomerdad
 
 Linked all navbars to the other files, so the other files can be easily accessible and named them About, Contact, and Portfolio pages. and each title was link to same file and content.
+Created a pdf resume file and put it in Google doc for download.
+Made my Slack Overflow account.
 Made sure that all links works. Tried to use semantic html element as much that I can.
 Added my own personal information. (bio, name, images, linked to my email and GitHub).
+Added icones and links of gitHub, linkedIn, Slack Overflow, and several repositories.
  
 • Usage: 
 1-	tps://validator.w3.org/  helps to check and fix the HTML fils
